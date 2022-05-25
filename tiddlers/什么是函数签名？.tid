@@ -1,0 +1,17 @@
+caption: {{||Question}}
+created: 20220525090930728
+creator: minzhenZ
+modified: 20220525091122692
+modifier: minzhenZ
+tags: 函数签名
+title: 什么是函数签名？
+type: text/vnd.tiddlywiki
+
+定义了函数或方法的输入与输出
+
+签名可包含：
+
+* 参数及参数的类型
+* 返回值及其类型
+* 可能抛出或传出的异常
+* 该方法在面向对象程序中可用性方面的信息（如public、static或prototype

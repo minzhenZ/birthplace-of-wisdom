@@ -1,0 +1,16 @@
+caption: {{||Question}}
+created: 20220525085902633
+creator: minzhenZ
+draft.of: 新条目
+draft.title: 函数签名
+modified: 20220525090338162
+modifier: minzhenZ
+tags: coding ?
+title: Draft of '新条目' by minzhenZ
+type: text/vnd.tiddlywiki
+
+* 什么是函数签名？
+定义了函数或方法的输入与输出
+包含
+* 为什么有函数签名这个概念？
+* 函数签名怎么运作的？
