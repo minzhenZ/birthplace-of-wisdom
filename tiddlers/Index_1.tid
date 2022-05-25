@@ -1,13 +1,9 @@
 created: 20220525084434630
 creator: minzhenZ
-modified: 20220525132454459
+modified: 20220525134406942
 modifier: minzhenZ
 tags: 
 title: Index
 type: text/vnd.tiddlywiki
 
-点击最下方的标签，即可到达列表显示的目录。
-
-* coding
-* english
-* cognition
+<$macrocall $name="locator-view" baseTitle=欢迎来到太微！ />

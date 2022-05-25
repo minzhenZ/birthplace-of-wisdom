@@ -1,9 +1,7 @@
 created: 20220525092523372
 creator: minzhenZ
-modified: 20220525132940281
+modified: 20220525133654609
 modifier: minzhenZ
 tags: Index
 title: coding
 type: text/vnd.tiddlywiki
-
-<<reuse-tiddler "允许用git-sync脚本自动同步代码">>
