@@ -1,0 +1,14 @@
+created: 20220525092058816
+creator: minzhenZ
+modified: 20220525092919039
+modifier: minzhenZ
+tags: 什么是函数签名？ 函数签名
+title: 为什么有函数签名这个概念？
+type: text/vnd.tiddlywiki
+
+因为函数签名有好处。 
+
+! 例1:
+
+重载的场景，签名中包含四个元素，其中一个不一致，则视为不是一个函数。
+[img[image3.png]]
