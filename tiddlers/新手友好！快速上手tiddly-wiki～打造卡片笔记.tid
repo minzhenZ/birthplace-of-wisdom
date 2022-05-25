@@ -1,0 +1,49 @@
+created: 20220525140851231
+creator: minzhenZ
+modified: 20220525145709986
+modifier: minzhenZ
+title: 新手友好！快速上手tiddly-wiki～打造卡片笔记
+type: text/vnd.tiddlywiki
+
+! 为什么使用tiddly-wiki？
+# 快速创建知识
+## 记录时以一个知识点为一个卡片。
+## 想要记录时，先打造大纲，后填充内容。
+
+# 快速查看or快速到达知识
+## 可以俯瞰全貌
+## 可以展示当前知识的关联
+## 可以直接链接到知识
+## 可以直接搜索到知识
+
+# 快速公开知识
+## 不用二次整理
+## 发布到线上的过程无痛轻松
+
+! 怎么使用tiddly-wiki？
+*  [[首先你需要准备一个github账号|https://github.com/]]
+
+如果你也像我一样，希望自己的笔记能无痛部署到线上，那么从github开始创建wiki必不可少！！！
+
+* 请使用模版创建一个github仓库([[模版戳这里|https://github.com/tiddly-gittly/Tiddlywiki-NodeJS-Github-Template]])
+''这个时候请注意！请一定要勾选下图的框框，这关系到我们能不能同步到线上！！！''
+[img[i3.png]]
+
+* 很好，这时我们已经创建好我们的仓库了，请把它下载到本地吧！
+下载的方式怎样都可以，只要能下载成功就行，但是为了降低之后同步的失败概率，建议配置SSH KEY，通过SSH方式下载！！！
+
+*下载tiddly-wiki客户端([[戳这里|https://github.com/tiddly-gittly/TidGi-Desktop]])
+我们需要在电脑中有个终端，方便创建、搜索以及同步，虽然tiddly-wiki支持多个端，也支持网页版，但最强大的非PC端莫属！！！
+
+* 打开tiddly-wiki客户端，配置你的名字和github账号
+* 配置用户名
+[img[i2.png]]
+
+* 配置github账号
+[img[image.png]]
+
+* 导入本地wiki，按照图片步骤，先填写线上地址，再选择下载的仓库的地址，最后点击导入就好啦！
+[img[i1.png]]
+[img[i4.png]]
+
+* 
