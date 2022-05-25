@@ -1,9 +1,13 @@
 created: 20220525084434630
 creator: minzhenZ
-modified: 20220525134406942
+modified: 20220525134841617
 modifier: minzhenZ
 tags: 
 title: Index
 type: text/vnd.tiddlywiki
 
-<$macrocall $name="locator-view" baseTitle=欢迎来到太微！ />
+```html
+<$macrocall $name="locator-view" baseTitle=Index />
+```
+
+<$macrocall $name="locator-view" baseTitle=Index />
