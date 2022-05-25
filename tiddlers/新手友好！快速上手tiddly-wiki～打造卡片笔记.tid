@@ -1,14 +1,28 @@
 created: 20220525140851231
 creator: minzhenZ
-modified: 20220525145709986
+modified: 20220525155847370
 modifier: minzhenZ
 title: 新手友好！快速上手tiddly-wiki～打造卡片笔记
 type: text/vnd.tiddlywiki
 
+! 什么是tiddly-wiki？
+* TiddlyWiki 是一款开源的非线性的原子化笔记软件，但是却过于极客。
+* 知乎网友「林一二」在TiddlyWiki基础上做了二次开发，达成了一个开箱即用的客户端——《TidGi 太记》，帮我们预装了许多有用的插件。虽然还是极客，但入手难度大大降低。
+可以查看其他人的理解：
+
+<<<
+https://www.ifanr.com/app/1472128
+
+https://zhuanlan.zhihu.com/p/140473235
+
+https://tiddly-wiki-chinese-tutorial.vercel.app/
+<<<
+
+
 ! 为什么使用tiddly-wiki？
 # 快速创建知识
-## 记录时以一个知识点为一个卡片。
-## 想要记录时，先打造大纲，后填充内容。
+## 可以记录时以一个知识点为一个卡片。
+## 可以想要记录时，先打造大纲，后填充内容。
 
 # 快速查看or快速到达知识
 ## 可以俯瞰全貌
@@ -21,29 +35,106 @@ type: text/vnd.tiddlywiki
 ## 发布到线上的过程无痛轻松
 
 ! 怎么使用tiddly-wiki？
+!! 创建线上wiki
+
 *  [[首先你需要准备一个github账号|https://github.com/]]
 
 如果你也像我一样，希望自己的笔记能无痛部署到线上，那么从github开始创建wiki必不可少！！！
 
 * 请使用模版创建一个github仓库([[模版戳这里|https://github.com/tiddly-gittly/Tiddlywiki-NodeJS-Github-Template]])
+
 ''这个时候请注意！请一定要勾选下图的框框，这关系到我们能不能同步到线上！！！''
 [img[i3.png]]
 
+* 测试线上wiki是否可用
+
+请在浏览器中键入A.github.io/B,其中A和B替换成你的账户名和仓库名，下图有例子。
+[img[i7.png]]
+
 * 很好，这时我们已经创建好我们的仓库了，请把它下载到本地吧！
+
 下载的方式怎样都可以，只要能下载成功就行，但是为了降低之后同步的失败概率，建议配置SSH KEY，通过SSH方式下载！！！
 
+!! 将线上wiki拉到本地
 *下载tiddly-wiki客户端([[戳这里|https://github.com/tiddly-gittly/TidGi-Desktop]])
+
 我们需要在电脑中有个终端，方便创建、搜索以及同步，虽然tiddly-wiki支持多个端，也支持网页版，但最强大的非PC端莫属！！！
 
 * 打开tiddly-wiki客户端，配置你的名字和github账号
 * 配置用户名
+
 [img[i2.png]]
 
 * 配置github账号
+
 [img[image.png]]
 
 * 导入本地wiki，按照图片步骤，先填写线上地址，再选择下载的仓库的地址，最后点击导入就好啦！
+
 [img[i1.png]]
 [img[i4.png]]
 
-* 
+!! 使用wiki
+!!! 创建目录
+
+* wiki已经可以开始在本地编辑啦，先设置你的主页吧～
+
+* 新建主页
+
+[img[i6.png]]
+
+* 在GetStarted中修改主页设置
+
+[img[i5.png]]
+
+* 关闭index，再次点击主页键测试是否出现了index
+
+* 设置目录
+
+```html
+<$macrocall $name="locator-view" baseTitle=Index />
+```
+[img[i8.png]]
+
+
+!!! 创建知识
+* 快速从主页或一个文件夹下创建知识
+
+[img[i9.png]]
+可以看到创建的卡片被显示在了目录里，卡片之间也双链了
+[img[i10.png]]
+
+* 快速在编写内容时创建知识
+
+当编写一个卡片时，出现了一个没有的概念，这时就可以用打两个[，在里面填上新的概念，保存后，点击该概念就可以链接到这个未编辑的卡片
+[img[i11.png]]
+[img[i12.png]]
+
+* 使用makedown语法排版你的文字
+
+[[markdown语法|https://markdown.com.cn/basic-syntax/]]
+
+* 拖动或直接复制粘贴你的图片到所需的位置
+
+当图片名称重复后可以修改名称，否则其他同名的图片将会被覆盖哦！！！
+
+!!! 快速检索知识
+* [[使用目录查看所有内容|$:/plugins/linonetwo/itonnote/Help/TW-Locator基于标签生成的文件夹目录结构使用方法]]
+
+* 快速查看当前节点与其他节点的关联
+在右侧thebrain可以查看
+[img[i14.png]]
+
+* 快速查找卡片
+利用全局搜索可以找到你想要的卡片
+[img[i13.png]]
+
+!! 将本地wiki同步到线上
+* 需要在设置下修改你想要的自动同步的时间
+[img[i15.png]]
+* 编辑当前的wiki工作区，设置自动同步
+[img[i16.png]]
+* 设置好以后每到你设置的时间，右上角会出现同步开始和完成的提示，这时，你可以去你的仓库查看是否更新了
+** 如果没有更新成功，可以查看是否存在github报错，可以拿报错信息去google搜索查看如何解决
+* 等待大概1分钟deploy跑完以后，就可以去线上wiki刷新查看是否同步到了
+** 如果不是最新的，建议shift+ command/ctrl + R 强制更新
