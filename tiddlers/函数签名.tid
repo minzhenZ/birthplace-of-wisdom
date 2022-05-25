@@ -1,13 +1,12 @@
 caption: {{||Question}}
 created: 20220525085902633
 creator: minzhenZ
-modified: 20220525090917211
+modified: 20220525091910418
 modifier: minzhenZ
 tags: coding
 title: 函数签名
 type: text/vnd.tiddlywiki
 
 ! 什么是函数签名？
-! 函数签名由哪些组成？
 ! 为什么有函数签名这个概念？
 ! 函数签名怎么运作的？
