@@ -1,6 +1,6 @@
 created: 20220525140851231
 creator: minzhenZ
-modified: 20220525155847370
+modified: 20220525160618017
 modifier: minzhenZ
 title: 新手友好！快速上手tiddly-wiki～打造卡片笔记
 type: text/vnd.tiddlywiki
@@ -72,7 +72,7 @@ https://tiddly-wiki-chinese-tutorial.vercel.app/
 * 导入本地wiki，按照图片步骤，先填写线上地址，再选择下载的仓库的地址，最后点击导入就好啦！
 
 [img[i1.png]]
-[img[i4.png]]
+[img[i17.png]]
 
 !! 使用wiki
 !!! 创建目录
@@ -123,18 +123,27 @@ https://tiddly-wiki-chinese-tutorial.vercel.app/
 
 * 快速查看当前节点与其他节点的关联
 在右侧thebrain可以查看
+
 [img[i14.png]]
 
 * 快速查找卡片
 利用全局搜索可以找到你想要的卡片
+
 [img[i13.png]]
 
 !! 将本地wiki同步到线上
 * 需要在设置下修改你想要的自动同步的时间
+
 [img[i15.png]]
+
 * 编辑当前的wiki工作区，设置自动同步
+
 [img[i16.png]]
+
 * 设置好以后每到你设置的时间，右上角会出现同步开始和完成的提示，这时，你可以去你的仓库查看是否更新了
+
 ** 如果没有更新成功，可以查看是否存在github报错，可以拿报错信息去google搜索查看如何解决
+
 * 等待大概1分钟deploy跑完以后，就可以去线上wiki刷新查看是否同步到了
+
 ** 如果不是最新的，建议shift+ command/ctrl + R 强制更新
