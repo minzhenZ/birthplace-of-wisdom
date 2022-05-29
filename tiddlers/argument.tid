@@ -1,0 +1,25 @@
+created: 20220529013245140
+creator: minzhenZ
+difficulty: 4.6000000000000005
+due: 20220531014457426
+grade: 2
+history: [{"due":"20220531014329050","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220529014329050"},{"due":"20220531014413115","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220529014413114"},{"due":"20220531014434777","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220529014434776"}]
+interval: 0
+lapses: 0
+modified: 20220529014457426
+modifier: minzhenZ
+reps: 4
+retrievability: 1
+review: 20220529014457425
+stability: 2
+tags: [[English for coding]] ?
+title: argument
+type: text/vnd.tiddlywiki
+
+! 参数
+
+实参，函数调用时的实际参数
+
+<<<
+形参[[parameter]]
+<<<

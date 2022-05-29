@@ -1,0 +1,25 @@
+created: 20220529012706336
+creator: minzhenZ
+difficulty: 4.000000000000001
+due: 20220531014514578
+grade: 2
+history: [{"due":"20220531012925942","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220529012925942"},{"due":"20220531013058301","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220529013058300"},{"due":"20220531014343646","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220529014343645"},{"due":"20220531014425677","interval":0,"difficulty":5.6000000000000005,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":4,"review":"20220529014425676"},{"due":"20220531014449131","interval":0,"difficulty":4.800000000000001,"stability":2,"retrievability":1,"grade":2,"lapses":0,"reps":5,"review":"20220529014449131"}]
+interval: 0
+lapses: 0
+modified: 20220529014514579
+modifier: minzhenZ
+reps: 6
+retrievability: 1
+review: 20220529014514578
+stability: 2
+tags: [[English for coding]] ?
+title: parameter
+type: text/vnd.tiddlywiki
+
+! 参数
+
+形参，函数定义中的参数
+
+<<<
+实参[[argument]]
+<<<

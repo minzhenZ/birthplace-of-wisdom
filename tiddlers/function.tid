@@ -1,0 +1,19 @@
+created: 20220529013812854
+creator: minzhenZ
+difficulty: 4.6000000000000005
+due: 20220531014500821
+grade: 2
+history: [{"due":"20220531014331984","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220529014331984"},{"due":"20220531014417307","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220529014417307"},{"due":"20220531014437594","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220529014437594"}]
+interval: 0
+lapses: 0
+modified: 20220529014500821
+modifier: minzhenZ
+reps: 4
+retrievability: 1
+review: 20220529014500821
+stability: 2
+tags: [[English for coding]] ?
+title: function
+type: text/vnd.tiddlywiki
+
+! 方法

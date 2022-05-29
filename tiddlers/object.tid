@@ -1,0 +1,19 @@
+created: 20220529013844553
+creator: minzhenZ
+difficulty: 4.6000000000000005
+due: 20220531014503391
+grade: 2
+history: [{"due":"20220531014333262","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220529014333262"},{"due":"20220531014420050","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220529014420050"},{"due":"20220531014439821","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220529014439821"}]
+interval: 0
+lapses: 0
+modified: 20220529014503391
+modifier: minzhenZ
+reps: 4
+retrievability: 1
+review: 20220529014503391
+stability: 2
+tags: [[English for coding]] ?
+title: object
+type: text/vnd.tiddlywiki
+
+! 对象

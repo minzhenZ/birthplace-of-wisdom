@@ -1,0 +1,19 @@
+created: 20220529012720673
+creator: minzhenZ
+difficulty: 4.800000000000001
+due: 20220531014452160
+grade: 2
+history: [{"due":"20220531012931280","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220529012931280"},{"due":"20220531013102524","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220529013102524"},{"due":"20220531014347011","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220529014347011"},{"due":"20220531014427979","interval":0,"difficulty":5.6000000000000005,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":4,"review":"20220529014427978"}]
+interval: 0
+lapses: 0
+modified: 20220529014452160
+modifier: minzhenZ
+reps: 5
+retrievability: 1
+review: 20220529014452159
+stability: 2
+tags: [[English for coding]] ?
+title: pass
+type: text/vnd.tiddlywiki
+
+! 传递

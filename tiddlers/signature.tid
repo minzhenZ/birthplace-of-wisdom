@@ -1,0 +1,19 @@
+created: 20220529013213964
+creator: minzhenZ
+difficulty: 4.6000000000000005
+due: 20220531014454733
+grade: 2
+history: [{"due":"20220531014325995","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220529014325995"},{"due":"20220531014410012","interval":0,"difficulty":5.2,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220529014410011"},{"due":"20220531014430936","interval":0,"difficulty":5.4,"stability":2,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220529014430936"}]
+interval: 0
+lapses: 0
+modified: 20220529014454733
+modifier: minzhenZ
+reps: 4
+retrievability: 1
+review: 20220529014454733
+stability: 2
+tags: [[English for coding]] ?
+title: signature
+type: text/vnd.tiddlywiki
+
+! 签名
