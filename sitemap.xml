@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:argument</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:coding</loc>
 		<lastmod>2022-05-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -13,14 +19,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:English</loc>
-		<lastmod>2022-05-25</lastmod>
+		<loc>https://onetwo.ren/wiki/#:declare</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:English%2520for%2520coding</loc>
+		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:function</loc>
+		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -132,6 +150,24 @@
 		<priority>1.0</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:object</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:parameter</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:pass</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:product</loc>
 		<lastmod>2022-05-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -140,6 +176,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:python</loc>
 		<lastmod>2022-05-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:request</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:signature</loc>
+		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
