@@ -7,6 +7,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:by%2520hand</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:coding</loc>
 		<lastmod>2022-05-25</lastmod>
 		<changefreq>monthly</changefreq>
@@ -181,6 +187,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:request</loc>
+		<lastmod>2022-05-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:roughly</loc>
 		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
