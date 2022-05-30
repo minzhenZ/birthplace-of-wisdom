@@ -1,0 +1,20 @@
+created: 20220530082741294
+creator: minzhenZ
+modified: 20220530082743345
+modifier: minzhenZ
+title: 使用fixture的其他fixture或用例不会互相影响。
+type: text/vnd.tiddlywiki
+
+```
+@pytest.fixture
+def fixture():
+	return []
+
+def test(fixture):
+	fixture.append('a')
+	assert ['a'] == fixture
+	
+def test(fixture):
+	fixture.append('b')
+	assert ['b'] == fixture
+```

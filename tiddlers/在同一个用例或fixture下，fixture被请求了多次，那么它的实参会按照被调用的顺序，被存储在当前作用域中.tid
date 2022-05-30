@@ -1,0 +1,30 @@
+created: 20220530083307186
+creator: minzhenZ
+modified: 20220530083335106
+modifier: minzhenZ
+title: 在同一个用例或fixture下，fixture被请求了多次，那么它的实参会按照被调用的顺序，被存储在当前作用域中
+type: text/vnd.tiddlywiki
+
+```
+# Arrange
+@pytest.fixture
+def first_entry():
+    return "a"
+
+
+# Arrange
+@pytest.fixture
+def order():
+    return []
+
+
+# Act
+@pytest.fixture
+def append_first(order, first_entry):
+    return order.append(first_entry)
+
+
+def test_string_only(append_first, order, first_entry):
+    # Assert
+    assert order == [first_entry]
+```

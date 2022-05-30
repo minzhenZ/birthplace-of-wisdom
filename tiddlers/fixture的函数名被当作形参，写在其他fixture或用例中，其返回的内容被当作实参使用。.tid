@@ -1,0 +1,39 @@
+created: 20220530082714692
+creator: minzhenZ
+modified: 20220530082717835
+modifier: minzhenZ
+title: fixture的函数名被当作形参，写在其他fixture或用例中，其返回的内容被当作实参使用。
+type: text/vnd.tiddlywiki
+
+```
+# Arrange
+@pytest.fixture
+def first_entry():
+    return "a"
+
+
+# Arrange
+@pytest.fixture
+def second_entry():
+    return 2
+
+
+# Arrange
+@pytest.fixture
+def order(first_entry, second_entry):
+    return [first_entry, second_entry]
+
+
+# Arrange
+@pytest.fixture
+def expected_list():
+    return ["a", 2, 3.0]
+
+
+def test_string(order, expected_list):
+    # Act
+    order.append(3.0)
+
+    # Assert
+    assert order == expected_list
+```

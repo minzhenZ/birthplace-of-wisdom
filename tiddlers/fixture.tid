@@ -1,0 +1,13 @@
+created: 20220530081434748
+creator: minzhenZ
+modified: 20220530083256900
+modifier: minzhenZ
+tags: pytest
+title: fixture
+type: text/vnd.tiddlywiki
+
+* [[fixture的函数名被当作形参，写在其他fixture或用例中，其返回的内容被当作实参使用。]]
+
+* [[使用fixture的其他fixture或用例不会互相影响。]]
+
+* [[在同一个用例或fixture下，fixture被请求了多次，那么它的实参会按照被调用的顺序，被存储在当前作用域中]]
