@@ -96,6 +96,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:fixture的范围：function、class、module、package、session、动态范围</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:flexible</loc>
 		<lastmod>2022-05-30</lastmod>
 		<changefreq>monthly</changefreq>
@@ -211,6 +217,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:imag.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:image.png</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -231,6 +242,18 @@
 		<lastmod>2022-05-25</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:invocation</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:invoked</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:neither</loc>
@@ -373,6 +396,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:学习方法</loc>
 		<lastmod>2022-05-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:当所有的用例都需要这个fixture时，可以为其设置autouse=true，这样所有用例不用填写它作为形参，但会得到它的实参</loc>
+		<lastmod>2022-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
