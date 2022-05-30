@@ -48,6 +48,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:convenient</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:declare</loc>
 		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -55,6 +61,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:demonstrate</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520minzhenZ</loc>
 		<lastmod>2022-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -68,6 +80,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:fixture</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:fixture的函数名被当作形参，写在其他fixture或用例中，其返回的内容被当作实参使用。</loc>
+		<lastmod>2022-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -209,6 +233,12 @@
 		<priority>1.0</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:neither</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:object</loc>
 		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -233,8 +263,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:pytest</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:python</loc>
 		<lastmod>2022-05-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:redundant</loc>
+		<lastmod>2022-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -311,8 +353,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:使用fixture的其他fixture或用例不会互相影响。</loc>
+		<lastmod>2022-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:函数签名</loc>
 		<lastmod>2022-05-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:在同一个用例或fixture下，fixture被请求了多次，那么它的实参会按照被调用的顺序，被存储在当前作用域中</loc>
+		<lastmod>2022-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
