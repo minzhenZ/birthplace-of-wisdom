@@ -1,0 +1,26 @@
+created: 20220530094432745
+creator: minzhenZ
+modified: 20220530095103039
+modifier: minzhenZ
+title: 当所有的用例都需要这个fixture时，可以为其设置autouse=true，这样所有用例不用填写它作为形参，但会得到它的实参
+type: text/vnd.tiddlywiki
+
+```
+@pytest.fixture
+def first_entry():
+    return ['a']
+
+@pytest.fixture(autouse=True)
+def order(first_entry):
+    first_entry.append('b')
+
+
+def test_1(first_entry):
+    # Assert
+    assert ['a','b'] == first_entry
+
+def test_2(first_entry):
+    # Assert
+
+    assert ['a','b'] == first_entry
+```

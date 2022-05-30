@@ -1,0 +1,24 @@
+created: 20220530095326331
+creator: minzhenZ
+modified: 20220530095904497
+modifier: minzhenZ
+title: fixture的范围：function、class、module、package、session、动态范围
+type: text/vnd.tiddlywiki
+
+* 默认范围是function。
+* 在作用域范围内，fixture只会被创建出一次
+例子：左侧是function范围的，对象是不一样的，右侧是module范围的，对象是一样的。
+[img[imag.png]]
+
+* 动态范围使用的场景，例如不同的docker容器，作用域不同
+```
+def determine_scope(fixture_name, config):
+    if config.getoption("--keep-containers", None):
+        return "session"
+    return "function"
+
+
+@pytest.fixture(scope=determine_scope)
+def docker_container():
+    yield spawn_container()
+```
