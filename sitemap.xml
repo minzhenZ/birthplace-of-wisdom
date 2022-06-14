@@ -84,6 +84,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;安装docker&apos;%2520by%2520minzhenZ</loc>
+		<lastmod>2022-06-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:English%2520for%2520coding</loc>
 		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -419,6 +425,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:学习方法</loc>
 		<lastmod>2022-05-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:安装docker</loc>
+		<lastmod>2022-06-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
