@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://onetwo.ren/wiki/#:/home/runner/work/birthplace-of-wisdom/birthplace-of-wisdom/tiddlers/.$__plugins_linonetwo_slate-write.json.icloud</loc>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:argument</loc>
 		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -66,8 +61,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520minzhenZ</loc>
-		<lastmod>2022-05-30</lastmod>
+		<loc>https://onetwo.ren/wiki/#:docker</loc>
+		<lastmod>2022-06-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;什么是容器化技术？&apos;%2520by%2520minzhenZ</loc>
+		<lastmod>2022-06-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -222,12 +223,17 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:image.png</loc>
+		<loc>https://onetwo.ren/wiki/#:image3.png</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:image3.png</loc>
+		<loc>https://onetwo.ren/wiki/#:image999.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:IMG_034C17FC3037-1.jpeg</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -372,6 +378,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:什么是函数签名？</loc>
 		<lastmod>2022-05-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:什么是容器化技术？</loc>
+		<lastmod>2022-06-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
