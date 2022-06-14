@@ -1,6 +1,6 @@
 created: 20220530085146710
 creator: minzhenZ
-modified: 20220614040139893
+modified: 20220614065817445
 modifier: minzhenZ
 tags: [[English for coding]] Index
 title: docker
@@ -8,3 +8,4 @@ type: text/vnd.tiddlywiki
 
 * docker是容器化技术[[什么是容器化技术？]]
 * [[docker的基本组成]]
+* [[安装docker]]
