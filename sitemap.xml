@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:/home/runner/work/birthplace-of-wisdom/birthplace-of-wisdom/tiddlers/.$__plugins_linonetwo_slate-write.json.icloud</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:argument</loc>
 		<lastmod>2022-05-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -62,6 +67,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:docker</loc>
+		<lastmod>2022-06-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:docker的基本组成</loc>
 		<lastmod>2022-06-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
