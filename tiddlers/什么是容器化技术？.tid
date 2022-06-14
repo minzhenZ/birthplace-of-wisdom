@@ -1,0 +1,11 @@
+created: 20220614033534682
+creator: minzhenZ
+modified: 20220614035758597
+modifier: minzhenZ
+title: 什么是容器化技术？
+type: text/vnd.tiddlywiki
+
+* 内核级别的虚拟化
+* 容器没有自己的内核，没有硬件
+* 容器之间互相隔离，每个容器都有属于自己的文件系统
+[img[image999.png]]
