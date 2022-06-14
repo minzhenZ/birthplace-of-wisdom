@@ -1,11 +1,10 @@
 created: 20220530085146710
 creator: minzhenZ
-modified: 20220614033558767
+modified: 20220614040139893
 modifier: minzhenZ
 tags: [[English for coding]] Index
 title: docker
 type: text/vnd.tiddlywiki
 
-docker是容器化技术
-
-[[什么是容器化技术？]]
+* docker是容器化技术[[什么是容器化技术？]]
+* [[docker的基本组成]]

@@ -1,0 +1,20 @@
+created: 20220614040242421
+creator: minzhenZ
+modified: 20220614040749542
+modifier: minzhenZ
+title: docker的基本组成
+type: text/vnd.tiddlywiki
+
+! 镜像（image）：
+class，template，通过镜像创建多个容器
+
+! 容器（container）：
+镜像的实例，简易的linux系统
+通过以下步骤让容器启动
+
+* docker pull
+* docker build
+* docker run
+
+! 仓库（repository）：
+存放镜像的地方
