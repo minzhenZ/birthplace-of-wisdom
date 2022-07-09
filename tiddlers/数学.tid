@@ -1,0 +1,9 @@
+created: 20220704081240491
+creator: minzhenZ
+modified: 20220709061929028
+modifier: minzhenZ
+tags: Index
+title: 数学
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=数学 />

@@ -1,48 +1,13 @@
 created: 20220614065831079
 creator: minzhenZ
-modified: 20220614073545996
+modified: 20220704081232051
 modifier: minzhenZ
 title: 安装docker
 type: text/vnd.tiddlywiki
 
 ! 环境查看
-# 系统内核是3.10以上的
+1、系统内核是3.10以上的
 uname -r查看系统内核
-
-# 查看系统版本
+2、查看系统版本
 cat /etc/os-release
-
-# 设置存储库
-```shell
-sudo yum install -y yum-utils
-
-sudo yum-config-manager \
-    --add-repo \
-http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
-```
-# 安装引擎
-```shell
-sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin
-```
-# 启动docker
-```shell
-sudo systemctl start docker
-```
-# 查看docker版本
-```shell
-docker version
-```
-# 测试运行docker
-```shell
-sudo docker run hello-world
-```
-#查看helloworld是否在本地镜像仓库中
-```shell
-docker images
-```
-#卸载docker
-```shell
-sudo yum remove docker-ce docker-ce-cli containerd.io docker-compose-plugin
-
-rm -rf /var/lib/docker
-```
+3、查看帮助文档
