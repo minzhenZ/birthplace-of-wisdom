@@ -1,9 +1,0 @@
-created: 20220709062618195
-creator: minzhenZ
-modified: 20220709063422535
-modifier: minzhenZ
-tags: 数学
-title: 数学基础
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=数学基础 />

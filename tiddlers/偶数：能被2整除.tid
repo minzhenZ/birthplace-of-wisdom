@@ -1,7 +1,9 @@
 created: 20220709063230433
 creator: minzhenZ
-modified: 20220709063310678
+modified: 20220709093547688
 modifier: minzhenZ
-tags: 奇数：不能被2整除 数学基础
+tags: 奇数：不能被2整除 奇偶性
 title: 偶数：能被2整除
 type: text/vnd.tiddlywiki
+
+[[奇偶运算规律]]

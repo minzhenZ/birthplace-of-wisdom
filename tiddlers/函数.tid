@@ -1,22 +1,21 @@
 created: 20220704123958805
 creator: minzhenZ
-modified: 20220709061827620
+modified: 20220709121623519
 modifier: minzhenZ
-tags: 微积分
+tags: 数学
 title: 函数
 type: text/vnd.tiddlywiki
 
-定义域
+! 组成部分
+!! [[定义域|函数的定义域]]
+!! 值域
+!! 对应法则
 
-值域
+$$D_R$$按照法则$$f$$在值域$$R_f$$中能找到唯一的值
 
-对应法则
+$$D_R$$与$$R_f$$的关系是1对1或1对多
 
-DR按照法则f在值域RF中能找到唯一的值
+[img[IMG_0116.jpg]]
 
-DR与RF的关系是1对1或1对多
-
-两个要素：
-定义域 对应法则
 
 

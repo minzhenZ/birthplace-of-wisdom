@@ -1,0 +1,27 @@
+created: 20220709064512988
+creator: minzhenZ
+draft.of: 等差数列
+draft.title: 等差数列
+modified: 20220709072727359
+modifier: minzhenZ
+tags: 数学基础
+title: Draft of '等差数列' by minzhenZ
+type: text/vnd.tiddlywiki
+
+! 在等差数列中，任何相邻两项的差相等，该差值称为公差
+
+例如数列：
+
+3, 5, 7, 9, 11, 13, ...
+
+! 公差：
+
+[img[Snipaste_2022-07-09_15-13-03.png]]
+
+! [[等差数列和公式]]
+
+[img[Snipaste_2022-07-09_15-15-49.png]]。
+
+[[等差数列下标m+n的和可以通过m和n分别的和求到]]
+
+[img[Snipaste_2022-07-09_15-15-17.png]]

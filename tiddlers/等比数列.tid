@@ -1,0 +1,20 @@
+created: 20220709070441455
+creator: minzhenZ
+modified: 20220709082353094
+modifier: minzhenZ
+tags: 等差数列 数列
+title: 等比数列
+type: text/vnd.tiddlywiki
+
+!在等比数列中，任何相邻两项的比例相等，该比值称为公比。
+
+例如数列：
+{3,6,12,24,48,96,...}
+
+!公比
+[img[Snipaste_2022-07-09_15-08-55.png]]
+
+!等比数列和
+[img[Snipaste_2022-07-09_15-09-10.png]]
+
+[[等比数列的极限]]
