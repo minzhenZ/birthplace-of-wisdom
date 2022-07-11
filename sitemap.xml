@@ -1330,6 +1330,16 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Snipaste_2022-07-11_09-16-11.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Snipaste_2022-07-11_09-18-19.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:splendid</loc>
 		<lastmod>2022-07-10</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1530,6 +1540,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:什么是容器化技术？</loc>
 		<lastmod>2022-07-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:从1加到n的数列和</loc>
+		<lastmod>2022-07-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1918,6 +1934,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:放缩法</loc>
+		<lastmod>2022-07-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:数</loc>
 		<lastmod>2022-07-09</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1944,6 +1966,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:数学</loc>
 		<lastmod>2022-07-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:数学归纳法</loc>
+		<lastmod>2022-07-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
