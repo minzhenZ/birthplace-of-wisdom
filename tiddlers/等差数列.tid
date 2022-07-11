@@ -1,8 +1,8 @@
 created: 20220709064512988
 creator: minzhenZ
-modified: 20220709082351742
+modified: 20220711065205786
 modifier: minzhenZ
-tags: 数列
+tags: 数学基础
 title: 等差数列
 type: text/vnd.tiddlywiki
 
@@ -16,12 +16,10 @@ type: text/vnd.tiddlywiki
 
 [img[Snipaste_2022-07-09_15-13-03.png]]
 
-! 等差数列和公式
+! [[等差数列和公式]]
 
 [img[Snipaste_2022-07-09_15-15-49.png]]。
 
-! 等差数列的特性两则
-[[等差数列的下标和相等，数也相等]]
-
 [[等差数列下标m+n的和可以通过m和n分别的和求到]]
 
+[img[Snipaste_2022-07-09_15-15-17.png]]
