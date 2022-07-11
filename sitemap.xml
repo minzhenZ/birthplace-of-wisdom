@@ -1393,6 +1393,21 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Snipaste_2022-07-11_16-47-29.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Snipaste_2022-07-11_16-48-00.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Snipaste_2022-07-11_16-49-46.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:splendid</loc>
 		<lastmod>2022-07-10</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1551,6 +1566,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:三角函数的分类</loc>
 		<lastmod>2022-07-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:三角函数诱导公式</loc>
+		<lastmod>2022-07-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
