@@ -1,0 +1,11 @@
+created: 20220711033516020
+creator: minzhenZ
+modified: 20220711034309764
+modifier: minzhenZ
+tags: 数学
+title: 数学归纳法
+type: text/vnd.tiddlywiki
+
+# 证明n=1成立
+# 假设n=k成立
+# 证明n=k+1成立
