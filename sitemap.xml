@@ -1325,6 +1325,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Snipaste_2022-07-11_08-05-14.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:splendid</loc>
 		<lastmod>2022-07-10</lastmod>
 		<changefreq>monthly</changefreq>
@@ -2088,7 +2093,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:直接拿来用的极限值</loc>
-		<lastmod>2022-07-10</lastmod>
+		<lastmod>2022-07-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
